@@ -37,11 +37,7 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
-
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
+Passionate Python Developer and MCA graduate with a strong interest in AI/ML and Full Stack Development. I enjoy building real-world applications using Python, Django, and SQL, and continuously improving my problem-solving skills. Currently focused on developing scalable backend systems and exploring machine learning concepts.
 
 ---
 
@@ -49,16 +45,16 @@ Love building efficient applications and exploring AI/ML integration.
 
 ### 🔥 Programming Languages
 • Python 
-• Java  
+• SQL
 
 ### 🚀 Backend
 • Django 
  
 
 ### 💅 Frontend
-• React / Vue / Angular  
-• HTML / CSS  
-• Tailwind / Bootstrap  
+• HTML  
+• CSS  
+• Bootstrap 
 
 ### 🗄️ Databases
 • PostgreSQL  
@@ -66,10 +62,9 @@ Love building efficient applications and exploring AI/ML integration.
 • MongoDB  
 
 ### ⚙️ DevOps & Tools
-• Git  
-• Docker  
-• AWS  
-• Linux  
+• Git & GitHub  
+• VS Code  
+• Command Line (Basics)  
 
 ---
 
