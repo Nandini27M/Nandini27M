@@ -1,4 +1,4 @@
-# 🚀 YOUR_NAME  
+# 🚀 NANDINI M 
 
 <div align="center">
 
@@ -12,11 +12,11 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Nandini27M">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:anunandu27@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -47,14 +47,12 @@ Love building efficient applications and exploring AI/ML integration.
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+• Python 
+• Java  
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+• Django 
+ 
 
 ### 💅 Frontend
 • React / Vue / Angular  
@@ -78,9 +76,9 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nandini27M &show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini27M &theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -90,7 +88,7 @@ Love building efficient applications and exploring AI/ML integration.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini27M &layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
@@ -98,25 +96,28 @@ Love building efficient applications and exploring AI/ML integration.
 
 ## 🏆 Featured Projects
 
-### 🔹 PROJECT_NAME_1
-**Description:** Short description of your project.  
+### 🔹 DEEP LEARNING FOR EARLY DETECTION OF DIABETIC RETINOPATHY
+**Description:** Built a webapp
 **Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**GitHub:** https://github.com/Nandini27M/PROJECT_REPO  
 
 ---
 
 ### 🔹 PROJECT_NAME_2
 **Description:** Short description of your project.  
 **Tech Stack:** Tech1, Tech2, Tech3  
-**GitHub:** https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO  
+**GitHub:** https://github.com/Nandini27M/PROJECT_REPO  
 
 ---
 
 ## 📚 Current Goals
 
-- [ ] Goal 1  
-- [ ] Goal 2  
-- [ ] Goal 3  
+- Strengthen Python fundamentals
+- Practice Data Structures & Algorithms
+- Improve SQL query writing skills
+- Learn Django for backend development
+- Understand basics of Machine Learning
+- Practice problem solving daily 
 - [ ] Certification / Learning  
 
 ---
@@ -134,7 +135,7 @@ I’m open to working on:
 
 ## 📬 Connect With Me
 
-📧 Email: YOUR_EMAIL  
+📧 Email: anunandu27@gmail.com 
 🔗 LinkedIn: YOUR_LINKEDIN_URL  
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
