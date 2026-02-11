@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/nandinim27">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -132,7 +132,7 @@ I’m open to working on:
 ## 📬 Connect With Me
 
 📧 Email: anunandu27@gmail.com 
-🔗 LinkedIn: YOUR_LINKEDIN_URL  
+🔗 LinkedIn: www.linkedin.com/in/nandinim27  
 🌐 Portfolio: YOUR_PORTFOLIO_URL  
 
 ---
