@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+NANDINI+M;💻+Python+Developer;🚀+AI%2FML+Enthusiast;🌟+Open+to+Collaborations!;🎯+Building+Real-World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+NANDINI+M;💻+Python+Developer;🚀+AI%2FML+Enthusiast;🌟+Open+to+Collaborations!;" />
 </h1>
 
 
@@ -93,15 +93,15 @@ Passionate Python Developer and MCA graduate with a strong interest in AI/ML and
 ## 🏆 Featured Projects
 
 ### 🔹 DEEP LEARNING FOR EARLY DETECTION OF DIABETIC RETINOPATHY
-**Description:** Built a webapp
-**Tech Stack:** Tech1, Tech2, Tech3  
+**Description:** Built a deep learning-based web application for early detection of diabetic retinopathy from retinal images.
+**Tech Stack:** Python, TensorFlow, Keras, EfficientNetB3, ResNet50, Flask 
 **GitHub:** https://github.com/Nandini27M/PROJECT_REPO  
 
 ---
 
-### 🔹 PROJECT_NAME_2
-**Description:** Short description of your project.  
-**Tech Stack:** Tech1, Tech2, Tech3  
+### 🔹 School Connect – Full Stack Web Application
+**Description:** Developed a role-based full-stack web application connecting schools, donors, and administrators through a centralized platform.  
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB Atlas, REST APIs  
 **GitHub:** https://github.com/Nandini27M/PROJECT_REPO  
 
 ---
@@ -114,7 +114,7 @@ Passionate Python Developer and MCA graduate with a strong interest in AI/ML and
 - Learn Django for backend development
 - Understand basics of Machine Learning
 - Practice problem solving daily 
-- [ ] Certification / Learning  
+
 
 ---
 
