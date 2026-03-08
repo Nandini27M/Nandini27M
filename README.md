@@ -67,24 +67,23 @@ Passionate Python Developer and MCA graduate with a strong interest in AI/ML and
 • Command Line (Basics)  
 
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nandini27M &show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nandini27M&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini27M &theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nandini27M&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
 ---
 
-## 📈 Top Languages
+## 📊 Top Languages
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini27M &layout=compact&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandini27M&layout=compact&theme=radical&hide_border=true" width="48%" />
 
 </div>
 
