@@ -95,7 +95,7 @@ Passionate Python Developer and MCA graduate with a strong interest in AI/ML and
 ### 🔹 DEEP LEARNING FOR EARLY DETECTION OF DIABETIC RETINOPATHY
 **Description:** Built a deep learning-based web application for early detection of diabetic retinopathy from retinal images.
 **Tech Stack:** Python, TensorFlow, Keras, EfficientNetB3, ResNet50, Flask 
-**GitHub:** https://github.com/Nandini27M/PROJECT_REPO  
+**GitHub:** https://github.com/Nandini27M/diabetic-retinopathy-detection  
 
 ---
 
